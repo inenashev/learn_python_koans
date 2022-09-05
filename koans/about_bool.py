@@ -32,7 +32,7 @@ def test_can_assign_bool_expressions_to_variable():
         истинно выражение или ложно.
     """
     a = 3 < 2
-    assert a == _____
+    assert a == False
 
 
 def test_assert_accepts_bool():
